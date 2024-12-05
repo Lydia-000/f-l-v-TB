@@ -1,6 +1,6 @@
 
-.homepage {
-    background-image: url(mainpicture.jpg);
+.homepage {  
+  background-image: url(mainpicture.jpg); 
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -106,7 +106,8 @@
     background-color: white;
     color: #14259B;
   }
-  /* Content Section */
+  
+/* Content Section */
 .content {
   padding: 40px;
   display: flex;
